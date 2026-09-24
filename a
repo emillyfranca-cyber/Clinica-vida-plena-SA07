@@ -131,7 +131,7 @@ footer {
 }
 
 #foto-casamento {
-    background-image: url("casamento.jpeg");
+    background-image: url("casamento.jp");
 }
 
 #foto-corporativo {
@@ -139,7 +139,7 @@ footer {
 }
 
 #foto-newborn {
-    background-image: url("newborn.jpeg");
+    background-image: url("Imagem pediatria.png");
 }
 
 /* Seletor compartilhado */
